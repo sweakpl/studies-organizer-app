@@ -27,7 +27,7 @@ Organize all of Your schedules, dates of future exams, due projects or save litt
 * Android NDK ver. 21.3.6528147
 
 ## Setup
-* Download `android-build-release-signed.apk`,
+* Download [android-build-release-signed.apk](https://github.com/sweakpl/studies-organizer-app/releases),
 * Put it e.g. in a `Downloads` folder in Your Android device,
 * Go to the `Downloads` folder on the Android device,
 * Tap the file and install - the file doesn't require any special permissions.
