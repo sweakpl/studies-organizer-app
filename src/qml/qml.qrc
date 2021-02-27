@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>EventsPage.qml</file>
+        <file>SchedulePage.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>NotesPage.qml</file>
+        <file>SwipeViewWithPageIndicator.qml</file>
+        <file>MenuPage.qml</file>
+        <file>MenuButton.qml</file>
+        <file>AddButton.qml</file>
+        <file>QuitDialog.qml</file>
+        <file>AddEditActivityDialog.qml</file>
+        <file>AddEditEventDialog.qml</file>
+        <file>AddEditNoteDialog.qml</file>
+        <file>TimeTumbler.qml</file>
+        <file>TumblerDelegate.qml</file>
+        <file>HourTumbler.qml</file>
+        <file>DatePicker.qml</file>
+        <file>MinuteTumbler.qml</file>
+        <file>YearComboBox.qml</file>
+        <file>MonthComboBox.qml</file>
+        <file>DayComboBox.qml</file>
+        <file>ThemeToggleButton.qml</file>
+        <file>ResetDataButton.qml</file>
+        <file>ResetDataDialog.qml</file>
+        <file>AboutDialog.qml</file>
+        <file>ScheduleDaysSwipeView.qml</file>
+        <file>EventsListView.qml</file>
+        <file>NotesListView.qml</file>
+        <file>AbstractDayListView.qml</file>
+        <file>MondayListView.qml</file>
+        <file>WednesdayListView.qml</file>
+        <file>TuesdayListView.qml</file>
+        <file>ThursdayListView.qml</file>
+        <file>FridayListView.qml</file>
+        <file>AboutButton.qml</file>
+    </qresource>
+</RCC>
