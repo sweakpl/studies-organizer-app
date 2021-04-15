@@ -1,7 +1,7 @@
 import QtQuick.Controls 2.15
 
 RoundButton {
-    height: mainWindow.height / 10
+    height: mainWindow.height / 12
     width: height
     z: 100
     anchors.margins: 30

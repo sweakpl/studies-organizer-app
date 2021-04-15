@@ -16,25 +16,28 @@ Page {
 
     Item {
         anchors.fill: parent
-        anchors.margins: 50
+        anchors.margins: 30
 
         ColumnLayout {
             anchors.fill: parent
 
             ThemeToggleButton {
-                Layout.margins: mainWindow.height / 20
+                Layout.topMargin: mainWindow.height / 20
+                Layout.bottomMargin: mainWindow.height / 20
                 Layout.fillWidth: true
                 Layout.fillHeight: true
             }
 
             ResetDataButton {
-                Layout.margins: mainWindow.height / 20
+                Layout.topMargin: mainWindow.height / 20
+                Layout.bottomMargin: mainWindow.height / 20
                 Layout.fillWidth: true
                 Layout.fillHeight: true
             }
 
             AboutButton {
-                Layout.margins: mainWindow.height / 20
+                Layout.topMargin: mainWindow.height / 20
+                Layout.bottomMargin: mainWindow.height / 20
                 Layout.fillWidth: true
                 Layout.fillHeight: true
             }
