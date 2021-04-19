@@ -22,7 +22,7 @@ Organize all of Your schedules, dates of future exams, due projects or save litt
 ## Technologies
 * Qt 5.15.1 for Android
 * SQLite 3.33.0
-* Java JDK 8u271
+* Java OpenJDK 11
 * Android SDK - API Level 30
 * Android NDK ver. 21.3.6528147
 
