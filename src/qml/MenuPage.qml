@@ -10,7 +10,7 @@ Page {
     header: Label {
         text: "Menu"
 
-        font.pixelSize: mainWindow.height / 12
+        font.pixelSize: mainWindow.height / 14
         padding: 20
     }
 

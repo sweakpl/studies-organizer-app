@@ -4,7 +4,7 @@ RoundButton {
     height: mainWindow.height / 12
     width: height
     z: 100
-    anchors.margins: 30
+    anchors.margins: 20
     anchors.right: parent.right
     anchors.top: parent.top
 

@@ -7,7 +7,7 @@ Page {
     header: Label {
         text: "Schedule"
 
-        font.pixelSize: mainWindow.height / 12
+        font.pixelSize: mainWindow.height / 14
         padding: 20
     }
 

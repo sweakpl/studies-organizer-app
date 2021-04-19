@@ -9,7 +9,7 @@ Page {
     header: Label {
         text: "Notes"
 
-        font.pixelSize: mainWindow.height / 12
+        font.pixelSize: mainWindow.height / 14
         padding: 20
     }
 

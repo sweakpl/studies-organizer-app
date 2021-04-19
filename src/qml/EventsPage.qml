@@ -9,7 +9,7 @@ Page {
     header: Label {
         text: "Events"
 
-        font.pixelSize: mainWindow.height / 12
+        font.pixelSize: mainWindow.height / 14
         padding: 20
     }
 

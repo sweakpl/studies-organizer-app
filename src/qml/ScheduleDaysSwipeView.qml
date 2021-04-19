@@ -12,7 +12,7 @@ SwipeView {
         header: Label {
             text: parent.dayName
 
-            font.pixelSize: mainWindow.height / 15
+            font.pixelSize: mainWindow.height / 16
             padding: 20
         }
         MondayListView {
@@ -25,7 +25,7 @@ SwipeView {
         header: Label {
             text: parent.dayName
 
-            font.pixelSize: mainWindow.height / 15
+            font.pixelSize: mainWindow.height / 16
             padding: 20
         }
         TuesdayListView {
@@ -38,7 +38,7 @@ SwipeView {
         header: Label {
             text: parent.dayName
 
-            font.pixelSize: mainWindow.height / 15
+            font.pixelSize: mainWindow.height / 16
             padding: 20
         }
         WednesdayListView {
@@ -51,7 +51,7 @@ SwipeView {
         header: Label {
             text: parent.dayName
 
-            font.pixelSize: mainWindow.height / 15
+            font.pixelSize: mainWindow.height / 16
             padding: 20
         }
         ThursdayListView {
@@ -64,7 +64,7 @@ SwipeView {
         header: Label {
             text: parent.dayName
 
-            font.pixelSize: mainWindow.height / 15
+            font.pixelSize: mainWindow.height / 16
             padding: 20
         }
         FridayListView {
